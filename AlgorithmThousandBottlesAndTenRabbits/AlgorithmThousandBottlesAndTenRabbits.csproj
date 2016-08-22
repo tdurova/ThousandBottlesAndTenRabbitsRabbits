@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InputHelper.cs" />
+    <Compile Include="SearchPoisonedBottle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchPoisonedRabbits.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
